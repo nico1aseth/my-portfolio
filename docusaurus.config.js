@@ -10,7 +10,7 @@ const config = {
   tagline:
     'I love backend development and crypto thing. Also a half marathon runner :)',
   url: 'https://github.com',
-  baseUrl: '/docusaurus-portfolio/',
+  baseUrl: '/my-portfolio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nico1aseth', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-portfolio', // Usually your repo name.
+  projectName: 'my-portfolio', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
