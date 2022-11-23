@@ -9,8 +9,8 @@ const config = {
   title: 'Nicolas Wang',
   tagline:
     'I love backend development and crypto thing. Also a half marathon runner :)',
-  url: 'https://nico1aseth.github.io/',
-  baseUrl: '/',
+  url: 'https://github.com',
+  baseUrl: '/docusaurus-portfolio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -20,6 +20,7 @@ const config = {
   organizationName: 'nico1aseth', // Usually your GitHub org/user name.
   projectName: 'docusaurus-portfolio', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
